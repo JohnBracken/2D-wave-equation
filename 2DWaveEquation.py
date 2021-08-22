@@ -1,6 +1,6 @@
 #The following code sample describes solving the 2D wave equation.
 #This code will look at a 2D sine wave under initial conditions.
-
+#There are a few different steps for doing this.
 
 
 #STEP 1.  Import the libraries needed to perform the calculations.
